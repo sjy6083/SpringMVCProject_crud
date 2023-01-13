@@ -20,3 +20,4 @@
 <img src="https://user-images.githubusercontent.com/110903333/212365154-385960a2-5374-40ea-8507-813c68363439.png" width="20%"></img>
 <img src="https://user-images.githubusercontent.com/110903333/212365114-a8801320-1688-477e-a32f-b39378bd5401.png" width="20%"></img>
 <img src="https://user-images.githubusercontent.com/110903333/212365024-703f94d3-445b-46a5-a908-e57b37280e1f.png" width="20%"></img>
+기본적인 crud 게시판
