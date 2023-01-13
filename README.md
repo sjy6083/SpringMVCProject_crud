@@ -5,3 +5,18 @@
 # 홈
 <img src="https://user-images.githubusercontent.com/110903333/212362144-7428467e-dc4e-47ba-92c9-079fbe3554f3.png" width="50%"></img>
 
+# 회원가입
+<img src="https://user-images.githubusercontent.com/110903333/212362771-855fc935-0024-45c2-ab1e-6b4630166377.png" width="50%"></img>
+
+# 로그인
+<img src="https://user-images.githubusercontent.com/110903333/212364723-62fc8f86-0c06-4496-8874-d4ac497882ce.png" width="50%"></img>
+
+# 회원가입 회원 데이터 Mysql 확인
+<img src="https://user-images.githubusercontent.com/110903333/212364798-67d04ff1-0080-4d08-bbc0-2fa756bd3077.png" width="40%"></img>
+<img src="https://user-images.githubusercontent.com/110903333/212364806-e41bbff5-9995-4482-b2fa-af70969ebfa9.png" width="40%"></img>
+
+# crud 게시판
+<img src="" width="20%"></img>
+<img src="" width="20%"></img>
+<img src="" width="20%"></img>
+<img src="" width="20%"></img>
