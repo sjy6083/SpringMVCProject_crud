@@ -16,7 +16,7 @@
 <img src="https://user-images.githubusercontent.com/110903333/212364806-e41bbff5-9995-4482-b2fa-af70969ebfa9.png" width="40%"></img>
 
 # crud 게시판
-<img src="" width="20%"></img>
-<img src="" width="20%"></img>
-<img src="" width="20%"></img>
-<img src="" width="20%"></img>
+<img src="https://user-images.githubusercontent.com/110903333/212365189-845e2b8f-9963-4b58-be2a-92fc08847af1.png" width="20%"></img>
+<img src="https://user-images.githubusercontent.com/110903333/212365154-385960a2-5374-40ea-8507-813c68363439.png" width="20%"></img>
+<img src="https://user-images.githubusercontent.com/110903333/212365114-a8801320-1688-477e-a32f-b39378bd5401.png" width="20%"></img>
+<img src="https://user-images.githubusercontent.com/110903333/212365024-703f94d3-445b-46a5-a908-e57b37280e1f.png" width="20%"></img>
