@@ -11,7 +11,7 @@
 
 # 회원가입 회원 데이터 Mysql 확인
 <img src="https://user-images.githubusercontent.com/110903333/212364806-e41bbff5-9995-4482-b2fa-af70969ebfa9.png" width="40%"></img>
-<img src="https://user-images.githubusercontent.com/110903333/212364798-67d04ff1-0080-4d08-bbc0-2fa756bd3077.png" width="40%"></img>
+<img src="https://user-images.githubusercontent.com/110903333/212364798-67d04ff1-0080-4d08-bbc0-2fa756bd3077.png" width="45%"></img>
 
 # crud 게시판
 <img src="https://user-images.githubusercontent.com/110903333/212365189-845e2b8f-9963-4b58-be2a-92fc08847af1.png" width="20%"></img>
