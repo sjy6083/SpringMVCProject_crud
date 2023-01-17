@@ -34,7 +34,7 @@
                     <li class="error id_error">이름과 아이디(이메일)을 모두 입력해주세요</li>
                     <li>
                         <span class="pw_bg"><!--배경이미지(비밀번호)--></span>
-                        <span><input class="form-control" placeholder="비밀번호" name="userPw" type="password" value=""></span>
+                        <span><input class="form-control" placeholder="비밀번호" name="userPw" type="password" value="" id='pw'></span>
                         <span class="pw_show_hide" title="문자보이기"></span>
                     </li>
                     <li class="error pw_error">비밀번호를 입력해주세요</li>
