@@ -16,10 +16,15 @@ window.onload=function(){
 
     let i = true
     pw_show_hide.addEventListener('click', function(){
-        if(i==true){
+        var pw=document.getElementById("pw")
+        var status=pw.getAttribute('type')
+        
+        if(i==true , status==='password'){
+			pw.setAttribute('type','text')
             pw_show_hide.style.backgroundPosition = '-126px 0'
             i=false
-        } else{
+        } else if(status==='text'){
+			pw.setAttribute('type','password')
             pw_show_hide.style.backgroundPosition = '-105px 0'
             i=true
         }
